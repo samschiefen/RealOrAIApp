@@ -1,0 +1,1 @@
+For my Capstone Project I trained a ML model to identify AI-generated images from non-AI generated images. I also greated an Android Studio application as a front-end to allow users to test their own images using the model.
